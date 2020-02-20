@@ -43,7 +43,7 @@ const (
 	AMG88xxDifference           = 0x00 // int modes
 	AMG88xxAbsoluteValue        = 0x01
 	AMG88xxPixelArraySize       = 64
-	AMG88xxPixelTempConversion  = .1
+	AMG88xxPixelTempConversion  = .25
 	AMG88xxThermistorConversion = .0625
 )
 
